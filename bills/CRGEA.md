@@ -1,36 +1,114 @@
 # 🌱 Climate Resilience & Green Economy Act (CRGEA)
 
-## **Objective**
-The **Climate Resilience & Green Economy Act (CRGEA)** is designed to **protect environmental regulations, promote clean energy, and prevent fossil fuel overreach**.
+## Purpose
+To protect and strengthen environmental regulations, accelerate the transition to clean energy, prevent fossil fuel industry overreach, and build resilient communities in the face of climate change.
 
-## **Key Provisions**
+## Title I: Environmental Protection Agency Authority
 
-- **Strengthening EPA Authority**
-  - Ensures the **EPA retains enforcement power** over environmental regulations.
-  - Prevents **rollback of pollution standards** without Congressional approval.
+### Section 101: EPA Enforcement Powers
+- Requires Congressional approval with a 60% majority for any reduction in EPA regulatory authority
+- Establishes minimum staffing levels for EPA enforcement divisions
+- Creates dedicated funding stream for EPA enforcement activities
+- Mandates annual public reporting on enforcement actions and outcomes
 
-- **Federal Investment in Clean Energy**
-  - Allocates **billions in funding for solar, wind, and renewable energy projects**.
-  - Establishes **grants for green infrastructure and sustainability initiatives**.
+### Section 102: Air and Water Quality Standards
+- Requires science-based updates to air and water quality standards every 5 years
+- Establishes automatic inflation adjustment for environmental violation penalties
+- Creates criminal penalties for willful violation of environmental regulations
+- Requires consideration of cumulative pollution impacts on vulnerable communities
 
-- **Restrictions on Fossil Fuel Expansion**
-  - Bans **new oil drilling permits** on public lands without Congressional oversight.
-  - Implements **progressive carbon tax incentives** for corporations reducing emissions.
+## Title II: Clean Energy Transition
 
-- **Climate Adaptation & Disaster Preparedness**
-  - Expands **funding for disaster resilience projects** in vulnerable communities.
-  - Strengthens **federal response to climate-related disasters**.
+### Section 201: Renewable Energy Investment
+- Establishes $500 billion Clean Energy Infrastructure Fund over 10 years
+- Provides tax credits for residential and commercial solar installation
+- Creates grants for community solar projects in low-income areas
+- Funds workforce training programs for clean energy jobs
 
-## **Impact**
-- **Reduces reliance on fossil fuels** and promotes sustainable energy.
-- **Strengthens environmental protections** to combat climate change.
-- **Invests in green technology and infrastructure** for economic growth.
+### Section 202: Grid Modernization
+- Mandates upgrades to electrical grid for renewable integration
+- Establishes tiered clean energy targets:
+  - 50% by 2030
+  - 70% by 2035
+  - 90% by 2040
+- Provides funding for energy storage and smart grid technology
+- Creates incentives for distributed energy resources
+- Establishes hardship exemptions for rural utilities with compliance plans
 
----
+## Title III: Fossil Fuel Regulation
 
-## **How You Can Help**
-✅ **Support renewable energy initiatives**  
-✅ **Advocate for stronger climate policies**  
-✅ **Encourage sustainable business practices**  
+### Section 301: Public Lands Protection
+- Requires Environmental Impact Statement for all new drilling permits
+- Mandates full cost bonding for well cleanup and restoration
+- Implements progressive carbon tax starting at $40 per ton
+- Creates transition assistance for fossil fuel workers
 
-📢 **Stay Informed & Take Action!**
+### Section 302: Emissions Reduction
+- Sets binding targets for greenhouse gas reductions
+- Requires methane capture for all oil and gas operations
+- Establishes penalties for excess emissions
+- Creates transparency requirements for corporate emissions reporting
+
+## Title IV: Climate Resilience
+
+### Section 401: Community Protection
+- Creates $100 billion Climate Resilience Fund for local governments
+- Requires climate risk assessment for federal infrastructure projects
+- Provides grants for flood protection and wildfire prevention
+- Establishes assistance program for climate refugees
+
+### Section 402: Agricultural Adaptation
+- Funds research into drought-resistant crops
+- Creates incentives for regenerative farming practices
+- Provides assistance for farmers transitioning to sustainable methods
+- Establishes programs to reduce agricultural emissions
+
+## Title V: Implementation and Oversight
+
+### Section 501: Oversight and Accountability
+- Creates independent Climate Action Oversight Board
+- Requires annual progress reports to Congress
+- Establishes public dashboard for tracking implementation
+- Provides whistleblower protections for environmental violations
+
+### Section 502: Funding Mechanisms
+- Establishes dedicated funding through carbon tax revenues
+- Creates Climate Action Trust Fund
+- Prevents reallocation of climate funds without Congressional approval
+- Requires cost-benefit analysis including climate impact
+
+## Title VI: Enforcement and Dispute Resolution
+
+### Section 601: Enforcement Authority
+- EPA shall have primary enforcement authority
+- State attorneys general may bring civil actions following EPA notification
+- Citizens may petition EPA for investigation and enforcement
+- Establishes Federal-State Environmental Coordination Council
+
+### Section 602: Dispute Resolution
+- Creates mandatory mediation process for federal-state disputes
+- Establishes clear jurisdictional boundaries
+- Provides mechanism for resolving conflicting state and federal standards
+- Requires annual joint enforcement planning between EPA and states
+
+### Section 603: Whistleblower Protection
+- Establishes Office of Environmental Whistleblower Protection
+- Provides administrative and legal remedies for retaliation
+- Creates sealed filing process for confidential complaints
+- Guarantees whistleblower anonymity with specified exceptions
+
+## Definitions
+- "Clean energy" includes solar, wind, geothermal, and other zero-emission sources as certified by EPA
+- "Climate resilience" means the capacity to prepare for, adapt to, and recover from climate impacts
+- "Environmental justice community" means a community where either:
+  - 40% or more of residents are low-income or minority populations
+  - Environmental hazard exposure exceeds EPA regional averages by 25% or more
+  - Historic patterns of environmental discrimination are documented
+- "Greenhouse gases" means carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, and sulfur hexafluoride
+- "Regulatory fee" means charges imposed to offset environmental impacts and fund mitigation efforts
+- "Covered entity" means any corporation, LLC, partnership, or business trust that:
+  - Emits over 25,000 metric tons of CO2e annually
+  - Has annual revenues exceeding $5 million
+  - Operates facilities requiring EPA permits
+
+This Act shall take effect 180 days after enactment.
