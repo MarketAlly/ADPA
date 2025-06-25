@@ -1,6 +1,21 @@
-# 🌍 Digital Rights & Algorithmic Transparency Act (DRATA)
+# Digital Rights & Algorithmic Transparency Act (DRATA)
 
-## Purpose
+**118th Congress, 2nd Session**  
+**H.R. _____ / S. _____**
+
+---
+
+**A BILL**
+
+To establish comprehensive protections for digital rights, ensure transparency in artificial intelligence systems, and prevent algorithmic discrimination while protecting individual privacy.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## Section 1. Short Title
+
+This Act may be cited as the "Digital Rights & Algorithmic Transparency Act" or "DRATA".
+
+## Section 2. Purpose
 To establish comprehensive protections for digital rights, ensure transparency in artificial intelligence systems, and prevent algorithmic discrimination while protecting individual privacy.
 
 ## Title I: Algorithmic Transparency & Accountability
@@ -429,3 +444,57 @@ Previous definition list replaced with specific technical and legal definitions 
 - Biometric Data
 - Mass Surveillance
 - Critical Decision
+
+## Title XII: AI Training Data Rights
+
+### Section 1201: Data Subject Rights in AI Training
+1. **Training Data Transparency**
+   - Right to know if personal data has been used in AI training datasets
+   - Mandatory disclosure of data sources for AI training
+   - Public registries of major AI training datasets
+   - Clear labeling of AI systems trained on personal data
+
+2. **Opt-Out and Consent Rights**
+   - Right to opt-out of AI training datasets retroactively
+   - Explicit consent required for sensitive personal data in AI training
+   - Granular control over different types of AI training uses
+   - Compensation mechanisms for valuable data contributions
+
+### Section 1202: Synthetic Media and Deepfake Protections
+1. **Malicious Deepfake Prevention**
+   - Criminal penalties for creating deepfakes with intent to deceive or harm
+   - Enhanced penalties for deepfakes targeting election processes
+   - Civil liability for non-consensual intimate deepfakes
+   - Right to request removal of malicious synthetic media
+
+2. **Mandatory Content Authentication**
+   - Watermarking requirements for all AI-generated content
+   - Blockchain-based content provenance tracking
+   - Industry standards for synthetic media detection
+   - Public access to content authentication tools
+
+### Section 1203: AI Model Accountability
+1. **Training Process Documentation**
+   - Complete documentation of AI training processes and data sources
+   - Environmental impact reporting for large model training
+   - Bias testing and mitigation records
+   - Regular auditing of model performance and impacts
+
+2. **Model Usage Restrictions**
+   - Prohibited uses of AI models for surveillance without warrant
+   - Restrictions on AI models used for social scoring
+   - Consumer protection from manipulative AI systems
+   - Right to know when interacting with AI systems
+
+### Section 1204: International AI Governance Coordination
+1. **Global AI Standards Alignment**
+   - Participation in international AI governance initiatives
+   - Mutual recognition of AI safety certifications
+   - Coordinated response to AI-related threats
+   - Information sharing on AI risks and best practices
+
+2. **Cross-Border AI Cooperation**
+   - Joint AI safety research programs
+   - Shared AI ethics standards and enforcement
+   - Coordinated AI incident response capabilities
+   - International AI transparency requirements

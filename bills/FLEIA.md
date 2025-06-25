@@ -1,6 +1,21 @@
-# 🚔 Federal Law Enforcement Integrity Act (FLEIA)
+# Federal Law Enforcement Integrity Act (FLEIA)
 
-## Purpose
+**118th Congress, 2nd Session**  
+**H.R. _____ / S. _____**
+
+---
+
+**A BILL**
+
+To establish comprehensive safeguards against the politicization of federal law enforcement agencies, ensure transparent operations, and create robust accountability mechanisms for misconduct.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## Section 1. Short Title
+
+This Act may be cited as the "Federal Law Enforcement Integrity Act" or "FLEIA".
+
+## Section 2. Purpose
 To establish comprehensive safeguards against the politicization of federal law enforcement agencies, ensure transparent operations, and create robust accountability mechanisms for misconduct.
 
 ## Title I: Political Independence & Operational Integrity
@@ -193,6 +208,60 @@ To establish comprehensive safeguards against the politicization of federal law 
   - Pre-approved emergency allocations
   - Rapid deployment procedures
   - No-year money designation
+
+## Title VIII: Intelligence Community Oversight
+
+### Section 801: IC Transparency and Accountability
+1. **Declassified Annual Reports**
+   - Annual public reports on domestic surveillance activities
+   - Statistical overview of surveillance programs affecting US persons
+   - Aggregate data on FISA court applications and approvals
+   - Assessment of intelligence community compliance with civil liberties protections
+
+2. **Independent IC Oversight**
+   - Independent inspector general for intelligence community domestic activities
+   - Bipartisan oversight board with security clearances
+   - Regular audits of IC compliance with domestic surveillance restrictions
+   - Public redacted reports on oversight findings
+
+### Section 802: Intelligence Whistleblower Protections
+1. **Enhanced IC Whistleblower Rights**
+   - Expanded protections for intelligence community whistleblowers
+   - Direct reporting channels to Congressional intelligence committees
+   - Protected disclosure procedures for classified wrongdoing
+   - Anti-retaliation measures specific to intelligence personnel
+
+2. **Classified Information Handling**
+   - Secure channels for reporting classified violations
+   - Independent review of classification decisions affecting whistleblower reports
+   - Expedited declassification for public interest disclosures
+   - Protection against over-classification to prevent oversight
+
+### Section 803: Community Policing Standards
+1. **Federal Community Policing Requirements**
+   - Federal law enforcement funding tied to community policing metrics
+   - Mandatory community oversight boards for federal law enforcement agencies
+   - Regular community engagement requirements
+   - Performance metrics based on community trust and satisfaction
+
+2. **Restorative Justice Integration**
+   - Pilot programs for restorative justice in federal criminal justice system
+   - Community-based alternatives to prosecution for non-violent offenses
+   - Victim-offender mediation programs
+   - Evaluation and expansion of successful restorative justice initiatives
+
+### Section 804: International Law Enforcement Cooperation
+1. **Democratic Standards for International Cooperation**
+   - Enhanced due process requirements for international law enforcement cooperation
+   - Human rights assessments for foreign law enforcement partnerships
+   - Transparency requirements for international law enforcement agreements
+   - Protection for individuals subject to international law enforcement requests
+
+2. **Information Sharing Safeguards**
+   - Privacy protections for international information sharing
+   - Restrictions on sharing with authoritarian regimes
+   - Regular review of international law enforcement partnerships
+   - Congressional oversight of significant international cooperation agreements
 
 ---
 

@@ -1,4 +1,19 @@
-# 📚 Independent Science & Education Act (ISEA)
+# Independent Science & Education Act (ISEA)
+
+**118th Congress, 2nd Session**  
+**H.R. _____ / S. _____**
+
+---
+
+**A BILL**
+
+To safeguard scientific integrity, academic freedom, and evidence-based education in the United States by establishing clear protections against political interference and ensuring sustainable funding mechanisms for research and education.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## Section 1. Short Title
+
+This Act may be cited as the "Independent Science & Education Act" or "ISEA".
 
 ## Title I: Purpose and Definitions
 
@@ -198,6 +213,47 @@ For the purposes of this Act:
    - Online portal for research findings
    - Searchable database of violations
    - Regular public hearings
+
+## Title VII: Climate Science Protection
+
+### Section 701: Dedicated Climate Research Safeguards
+1. **Climate Science Independence**
+   - Dedicated funding for climate science immune from political interference
+   - Protected status for climate research data and findings
+   - Independent review process for climate research funding decisions
+   - Whistleblower protections specifically for climate scientists
+
+2. **Climate Scientist Protection Program**
+   - Security measures for climate scientists facing harassment
+   - Legal defense fund for climate scientists under attack
+   - Anonymous reporting system for climate science interference
+   - Career protection for government climate scientists
+
+### Section 702: Corporate Research Independence
+1. **Industry-Funded Research Transparency**
+   - Mandatory disclosure of corporate funding for all research
+   - Firewall requirements between corporate funding and research conclusions
+   - Independent review of industry-sponsored studies affecting public policy
+   - Public database of corporate research funding
+
+2. **Research Integrity Standards**
+   - Prohibition on corporate influence over research methodology
+   - Required disclosure of potential conflicts of interest
+   - Independent oversight of corporate-funded research
+   - Penalties for undisclosed corporate research influence
+
+### Section 703: International Scientific Cooperation
+1. **Global Climate Research Collaboration**
+   - Enhanced participation in international climate research initiatives
+   - Data sharing agreements with international research institutions
+   - Joint funding for global climate monitoring systems
+   - Protection for international research partnerships
+
+2. **Scientific Diplomacy Programs**
+   - Scientist exchange programs with democratic allies
+   - International research integrity standards development
+   - Coordinated response to attacks on science in other countries
+   - Support for scientific freedom globally
 
 ---
 

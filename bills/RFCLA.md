@@ -1,4 +1,15 @@
-# 🛡️ Religious Freedom & Civil Liberties Act (RFCLA)
+# Religious Freedom & Civil Liberties Act (RFCLA)
+
+**118th Congress, 2nd Session**  
+**H.R. _____ / S. _____**
+
+---
+
+**A BILL**
+
+To protect religious freedom, uphold the separation of church and state, and safeguard civil liberties while ensuring equal protection under the law for all individuals, regardless of their religious beliefs or lack thereof.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
 
 ## Section 1: Purpose and Scope
 
@@ -178,6 +189,60 @@ For the purposes of this Act:
 1. Full implementation within 180 days of enactment
 2. Regular review and updates every 3 years
 3. Grandfather clause for existing religious accommodations
+
+## Section 10: Expanded Religious Protection
+
+### 10.1 Non-Traditional Belief Protection
+1. **Comprehensive Belief Coverage**
+   - Explicit protection for atheism, agnosticism, and secular philosophies
+   - Protection for indigenous spiritual practices and traditional beliefs
+   - Recognition of evolving religious expressions and new religious movements
+   - Equal treatment for all sincere belief systems regardless of traditional recognition
+
+2. **Secular Conscience Protections**
+   - Protection for deeply held secular moral convictions
+   - Equal accommodation rights for non-religious ethical systems
+   - Protection against discrimination based on lack of religious belief
+   - Equivalent conscientious objector status for secular moral positions
+
+### 10.2 International Religious Freedom Coordination
+1. **Global Religious Freedom Support**
+   - Support programs for religious minorities facing persecution abroad
+   - Diplomatic initiatives to protect international religious freedom
+   - Sanctions against countries engaging in systematic religious persecution
+   - Refugee protections specifically for religious persecution victims
+
+2. **International Cooperation**
+   - Participation in international religious freedom initiatives
+   - Information sharing with allies on religious freedom threats
+   - Joint programs to protect religious minorities globally
+   - Support for international religious freedom monitoring organizations
+
+### 10.3 Enhanced Public Health Balance
+1. **Refined Exemption Standards**
+   - Clear scientific criteria for when religious exemptions may be limited
+   - Enhanced education requirements for religious exemption claims
+   - Community impact assessments for religious exemption policies
+   - Regular review of exemption policies based on public health data
+
+2. **Alternative Accommodation Measures**
+   - Alternative testing and safety measures for religious exemption holders
+   - Remote work and education options during public health emergencies
+   - Enhanced health monitoring for exempt individuals
+   - Community-based public health education programs
+
+### 10.4 Technology and Religious Freedom
+1. **Digital Religious Expression Protection**
+   - Protection for religious expression on digital platforms
+   - Anti-discrimination measures for religious content online
+   - Privacy protections for religious data and communications
+   - Equal access to digital services regardless of religious belief
+
+2. **AI and Religious Bias Prevention**
+   - Prohibition on AI systems that discriminate based on religious belief
+   - Regular testing of AI systems for religious bias
+   - Transparency requirements for AI decision-making affecting religious groups
+   - Right to human review of AI decisions impacting religious freedom
 
 ## Section 9: Severability
 

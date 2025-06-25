@@ -1,6 +1,21 @@
-# 🌱 Climate Resilience & Green Economy Act (CRGEA)
+# Climate Resilience & Green Economy Act (CRGEA)
 
-## Purpose
+**118th Congress, 2nd Session**  
+**H.R. _____ / S. _____**
+
+---
+
+**A BILL**
+
+To protect and strengthen environmental regulations, accelerate the transition to clean energy, prevent fossil fuel industry overreach, and build resilient communities in the face of climate change.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## Section 1. Short Title
+
+This Act may be cited as the "Climate Resilience & Green Economy Act" or "CRGEA".
+
+## Section 2. Purpose
 To protect and strengthen environmental regulations, accelerate the transition to clean energy, prevent fossil fuel industry overreach, and build resilient communities in the face of climate change.
 
 ## Title I: Environmental Protection Agency Authority
@@ -110,5 +125,59 @@ To protect and strengthen environmental regulations, accelerate the transition t
   - Emits over 25,000 metric tons of CO2e annually
   - Has annual revenues exceeding $5 million
   - Operates facilities requiring EPA permits
+
+## Title VII: International Climate Coordination
+
+### Section 701: Global Climate Finance
+1. **International Climate Fund Contribution**
+   - US contribution of $10 billion annually to international climate adaptation fund
+   - Technology transfer programs for developing countries
+   - Climate resilience capacity building initiatives
+   - Emergency climate disaster response coordination
+
+2. **Carbon Border Adjustment Mechanisms**
+   - Tariffs on carbon-intensive imports from countries without equivalent climate policies
+   - Revenue recycling to domestic clean energy and international climate finance
+   - WTO-compliant implementation framework
+   - Graduated implementation based on emissions intensity
+
+### Section 702: Climate Migration Support
+1. **Climate Refugee Legal Framework**
+   - Recognition of climate displacement as grounds for protected status
+   - Streamlined visa processes for climate migrants
+   - Regional cooperation agreements for climate migration
+   - Integration support programs for climate refugees
+
+2. **International Climate Displacement Cooperation**
+   - Bilateral agreements with vulnerable nations
+   - Pre-disaster relocation planning and support
+   - Capacity building for climate adaptation in origin countries
+   - International coordination on climate migration policies
+
+### Section 703: Enhanced Community Protection
+1. **Environmental Justice Priority**
+   - Minimum 50% of climate funds directed to disadvantaged communities
+   - Community-led adaptation project prioritization
+   - Cumulative health impact assessments for all climate policies
+   - Anti-displacement protections for vulnerable communities
+
+2. **Frontline Community Resilience**
+   - Dedicated funding for Indigenous climate adaptation
+   - Traditional ecological knowledge integration in climate planning
+   - Community-controlled renewable energy development
+   - Cultural preservation support during climate transitions
+
+### Section 704: International Technology Cooperation
+1. **Clean Technology Transfer**
+   - Open-source clean technology development programs
+   - International research and development partnerships
+   - Technology patent sharing for climate solutions
+   - Capacity building for clean technology deployment
+
+2. **Global Climate Innovation**
+   - International clean energy research collaborations
+   - Joint development of climate adaptation technologies
+   - Shared early warning systems for climate disasters
+   - Coordinated standards for clean technology interoperability
 
 This Act shall take effect 180 days after enactment.

@@ -1,5 +1,20 @@
 # Election Integrity & Voting Rights Act (EIVRA)
 
+**118th Congress, 2nd Session**  
+**H.R. _____ / S. _____**
+
+---
+
+**A BILL**
+
+To protect election integrity, ensure universal voter access, prevent voter suppression, and strengthen democratic participation in elections.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## Section 1. Short Title
+
+This Act may be cited as the "Election Integrity & Voting Rights Act" or "EIVRA".
+
 ## Title I: Universal Voter Access & Registration
 
 ### Section 101: Automatic Voter Registration
@@ -158,6 +173,47 @@
 - Phase-in periods for complex systems
 - Alternative compliance pathways
 - Emergency backup procedures
+
+## Title VIII: AI and Election Security
+
+### Section 801: AI-Generated Content in Elections
+1. **Synthetic Media in Campaigns**
+   - Mandatory labeling of all AI-generated political content
+   - Real-time detection systems for synthetic media in election advertising
+   - Criminal penalties for malicious election deepfakes
+   - Enhanced penalties during election periods (60 days before elections)
+
+2. **AI Content Monitoring**
+   - Automated detection systems for AI-generated election content
+   - Partnership with social media platforms for rapid response
+   - Public database of detected synthetic political content
+   - Citizen reporting mechanisms for suspicious AI content
+
+### Section 802: Enhanced Rural Election Support
+1. **Rural Infrastructure Support**
+   - 100% federal funding for rural election infrastructure upgrades
+   - Satellite internet access guarantee for all election systems
+   - Mobile voting technology deployment for remote areas
+   - Emergency communication systems for election day
+
+2. **Remote Area Accessibility**
+   - Extended voting periods for remote communities
+   - Transportation assistance for isolated voters
+   - Multilingual voting materials for Indigenous communities
+   - Special provisions for military and overseas voters
+
+### Section 803: International Election Monitoring
+1. **Democratic Alliance Election Observation**
+   - Reciprocal election monitoring agreements with democratic allies
+   - International best practices adoption
+   - Shared election security intelligence
+   - Joint response to election interference
+
+2. **Foreign Interference Prevention**
+   - Enhanced detection of foreign election interference
+   - Real-time sharing of threat intelligence with allies
+   - Coordinated response to international election threats
+   - Annual assessment of foreign interference capabilities
 
 ## Effective Date
 This Act shall take effect immediately upon passage, with full implementation required within:

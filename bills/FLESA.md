@@ -1,6 +1,21 @@
-# 🏗️ Fair Labor & Economic Security Act (FLESA)
+# Fair Labor & Economic Security Act (FLESA)
 
-## Purpose
+**118th Congress, 2nd Session**  
+**H.R. _____ / S. _____**
+
+---
+
+**A BILL**
+
+To protect workers' rights, ensure fair wages, prevent corporate exploitation, and establish comprehensive labor protections that cannot be easily circumvented or weakened through regulatory changes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## Section 1. Short Title
+
+This Act may be cited as the "Fair Labor & Economic Security Act" or "FLESA".
+
+## Section 2. Purpose
 To protect workers' rights, ensure fair wages, prevent corporate exploitation, and establish comprehensive labor protections that cannot be easily circumvented or weakened through regulatory changes.
 
 ## Title I: Wage Protection & Economic Security
@@ -248,6 +263,47 @@ To protect workers' rights, ensure fair wages, prevent corporate exploitation, a
    - Annual standards review and updates
    - Biennial international alignment review
    - Continuous small business support programs
+
+## Title IX: Enhanced Platform Work Protection
+
+### Section 901: Gig Worker Rights Enhancement
+1. **Benefits Portability Across Platforms**
+   - Mandatory portable benefits system for multi-platform workers
+   - Universal benefits account accessible across all gig platforms
+   - Pro-rated benefits based on total earnings across platforms
+   - Standardized benefits calculation methodology
+
+2. **Collective Bargaining Rights for Platform Workers**
+   - Right to form unions for platform workers
+   - Sector-based collective bargaining for similar platform work
+   - Protection against retaliation for union organizing
+   - Mandatory good-faith bargaining with platform worker organizations
+
+### Section 902: Enhanced AI Workplace Surveillance Limits
+1. **Comprehensive AI Monitoring Restrictions**
+   - Prohibition on continuous AI monitoring of worker productivity
+   - Right to disconnect from AI monitoring systems during breaks
+   - Worker consent required for biometric monitoring systems
+   - Regular audits of AI workplace surveillance systems
+
+2. **AI Decision Transparency**
+   - Right to explanation for all AI-driven workplace decisions
+   - Human review required for AI-based performance evaluations
+   - Appeal process for AI-driven disciplinary actions
+   - Regular bias testing of workplace AI systems
+
+### Section 903: International Labor Standards Coordination
+1. **Global Worker Protection Standards**
+   - Alignment with International Labour Organization standards
+   - Mutual recognition of worker protection certifications
+   - Cross-border enforcement cooperation for labor violations
+   - Protection for workers in international supply chains
+
+2. **Multinational Corporation Accountability**
+   - Parent company liability for subsidiary labor violations
+   - Supply chain labor compliance requirements
+   - Regular audits of international operations
+   - Worker protection standards for overseas operations
 
 ### Section 803: Emergency Powers
 1. **Rapid Response Provisions**

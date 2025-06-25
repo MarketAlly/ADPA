@@ -1,6 +1,21 @@
-# 📺 Public Broadcasting & Free Press Protection Act (PBFPA)
+# Public Broadcasting & Free Press Protection Act (PBFPA)
 
-## Definitions
+**118th Congress, 2nd Session**  
+**H.R. _____ / S. _____**
+
+---
+
+**A BILL**
+
+To protect and strengthen the independence of public broadcasting and press freedom, prevent government interference in media operations, and ensure diverse, independent journalism.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## Section 1. Short Title
+
+This Act may be cited as the "Public Broadcasting & Free Press Protection Act" or "PBFPA".
+
+## Section 2. Definitions
 
 For the purposes of this Act:
 
@@ -311,3 +326,57 @@ Congress finds that:
 - Quarterly updates on implementation progress
 - Public database of press freedom violations
 - Regular assessment of program effectiveness
+
+## Title XII: Local Journalism Support
+
+### Section 1201: Local News Sustainability
+1. **Tax Credits and Financial Support**
+   - Federal tax credits for local news subscriptions (up to $250 per taxpayer)
+   - Grants for community journalism initiatives
+   - Low-interest loans for local news startups
+   - Antitrust protections for local news cooperatives
+
+2. **Community Journalism Programs**
+   - Funding for local journalism training programs
+   - Support for community correspondent networks
+   - Grants for local investigative reporting projects
+   - Technical assistance for digital transition
+
+### Section 1202: Foreign Influence Prevention
+1. **Enhanced Foreign Media Disclosure**
+   - Mandatory registration for foreign-funded media entities
+   - Real-time disclosure of foreign financial support
+   - Public database of foreign media investments
+   - Enhanced penalties for undisclosed foreign influence
+
+2. **Foreign Propaganda Countermeasures**
+   - Detection systems for foreign propaganda campaigns
+   - Public education about foreign influence operations
+   - Coordination with allies on foreign influence threats
+   - Protection for journalists reporting on foreign influence
+
+### Section 1203: Media Consolidation Prevention
+1. **Enhanced Antitrust Enforcement**
+   - Stricter merger review standards for media companies
+   - Breakup authority for excessive media concentration
+   - Market share limits for dominant media companies
+   - Protection for local news ownership diversity
+
+2. **Local Ownership Incentives**
+   - Tax incentives for local media ownership
+   - Support for employee-owned news organizations
+   - Grants for minority-owned media companies
+   - Protection against predatory media acquisition practices
+
+### Section 1204: Digital Platform Accountability
+1. **News Content Compensation**
+   - Mandatory compensation for news content use by platforms
+   - Transparent algorithms for news content distribution
+   - Protection against discriminatory content moderation
+   - Appeals process for content moderation decisions
+
+2. **Platform Transparency Requirements**
+   - Public disclosure of content recommendation algorithms
+   - Regular audits of news content treatment
+   - User control over news feed algorithms
+   - Protection for news content creators

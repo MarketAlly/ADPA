@@ -1,6 +1,21 @@
 # Judicial Independence & Ethics Act (JIEA)
 
-## Summary for Citizens
+**118th Congress, 2nd Session**  
+**H.R. _____ / S. _____**
+
+---
+
+**A BILL**
+
+To protect the independence of courts by preventing political interference, ensuring judges remain ethical and unbiased, and maintaining public trust in the judicial system.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## Section 1. Short Title
+
+This Act may be cited as the "Judicial Independence & Ethics Act" or "JIEA".
+
+## Section 2. Summary for Citizens
 This act protects the independence of our courts by preventing political interference, ensuring judges remain ethical and unbiased, and maintaining public trust in our judicial system.
 
 ## Core Provisions
@@ -281,6 +296,47 @@ Independent Judicial Ethics Office
 - Hotline: (800) XXX-XXXX
 - Website: www.judicialethics.gov
 - Email: oversight@judicialethics.gov
+
+## Anti-Forum Shopping Safeguards
+
+### 1. Case Assignment Integrity
+- **Randomized Assignment Systems**
+  - Cryptographically secure random case assignment
+  - Third-party verification of assignment algorithms
+  - Public audit trail of case assignments
+  - Regular statistical analysis for assignment bias
+
+- **Venue Transfer Restrictions**
+  - Strict criteria for legitimate venue transfers
+  - Independent review of transfer requests
+  - Public disclosure of venue transfer reasons
+  - Appeals process for improper transfers
+
+### 2. Attorney Conduct Standards
+- **Forum Shopping Penalties**
+  - Professional sanctions for strategic forum shopping
+  - Financial penalties for repeat offenders
+  - Referral to state bar associations
+  - Public reporting of forum shopping violations
+
+- **Transparency Requirements**
+  - Mandatory disclosure of venue selection rationale
+  - Documentation of case assignment preferences
+  - Regular reporting on venue selection patterns
+  - Client notification of venue implications
+
+### 3. Judicial Administration Safeguards
+- **Assignment Monitoring**
+  - Real-time monitoring of case assignment patterns
+  - Statistical analysis for irregularities
+  - Independent oversight of assignment processes
+  - Regular reports to judicial oversight boards
+
+- **Emergency Assignment Protocols**
+  - Backup assignment systems for technical failures
+  - Emergency procedures for compromised assignments
+  - Secure communication channels for assignment coordination
+  - Recovery procedures for assignment system breaches
 
 ---
 

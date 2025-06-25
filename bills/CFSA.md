@@ -1,6 +1,21 @@
 # Consumer Financial Stability Act (CFSA)
 
-## Section 1: Purpose and Definitions
+**118th Congress, 2nd Session**  
+**H.R. _____ / S. _____**
+
+---
+
+**A BILL**
+
+To protect and strengthen consumer financial protections by preserving the independence and enforcement powers of key regulatory agencies, expanding deposit insurance protections, and preventing harmful deregulation of consumer financial safeguards.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## Section 1. Short Title
+
+This Act may be cited as the "Consumer Financial Stability Act" or "CFSA".
+
+## Section 2: Purpose and Definitions
 
 ### 1.1 Purpose
 To protect and strengthen consumer financial protections by preserving the independence and enforcement powers of key regulatory agencies, expanding deposit insurance protections, and preventing harmful deregulation of consumer financial safeguards.
@@ -107,3 +122,57 @@ To protect and strengthen consumer financial protections by preserving the indep
 ## Section 8: Severability
 
 If any provision of this Act is held invalid, the remainder shall not be affected and shall continue in full force and effect.
+
+## Section 9: Digital Financial Services
+
+### 9.1 Fintech Regulation
+1. **Comprehensive Oversight**
+   - Banking-level oversight for fintech companies processing >$10B annual transaction volume
+   - Mandatory deposit insurance for digital banking services
+   - Real-time transaction monitoring requirements
+   - Consumer protection standards equivalent to traditional banks
+
+2. **Digital Payment Protection**
+   - Instant fraud detection and reimbursement systems
+   - Enhanced authentication requirements for high-value transactions
+   - Consumer liability limits for unauthorized digital transactions
+   - Mandatory security breach notifications within 24 hours
+
+### 9.2 Cryptocurrency Consumer Protections
+1. **Enhanced Disclosure Requirements**
+   - Clear risk warnings for all cryptocurrency products
+   - Real-time price volatility disclosure
+   - Mandatory cool-off periods for large cryptocurrency purchases
+   - Plain-language explanations of cryptocurrency risks
+
+2. **Consumer Safeguards**
+   - Segregated customer asset requirements for crypto exchanges
+   - Insurance requirements for customer crypto holdings
+   - Mandatory audit trails for all crypto transactions
+   - Consumer right to cryptocurrency transaction reversal in cases of fraud
+
+### 9.3 AI Lending Protections
+1. **Algorithmic Transparency**
+   - Mandatory algorithmic bias testing for all lending decisions
+   - Public disclosure of AI lending model factors and weights
+   - Right to human review of AI-driven loan denials
+   - Transparent credit scoring algorithms with explainable decisions
+
+2. **Anti-Discrimination Measures**
+   - Prohibited use of discriminatory variables in AI lending models
+   - Regular testing for disparate impact on protected classes
+   - Corrective action requirements for biased lending algorithms
+   - Penalties for willful use of discriminatory AI systems
+
+### 9.4 Digital Asset Custody
+1. **Custodial Standards**
+   - Fiduciary duty requirements for digital asset custodians
+   - Segregation of customer assets from custodian assets
+   - Insurance requirements for custodial services
+   - Regular third-party audits of custodial practices
+
+2. **Consumer Rights**
+   - Right to direct custody of digital assets
+   - Clear disclosure of custodial risks and fees
+   - Guaranteed access to assets during custodian operational issues
+   - Protection against unauthorized asset transfers

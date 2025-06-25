@@ -1,6 +1,21 @@
 # Corporate Accountability & Transparency Act (CATA)
 
-## Section 1: Purpose and Scope
+**118th Congress, 2nd Session**  
+**H.R. _____ / S. _____**
+
+---
+
+**A BILL**
+
+To strengthen corporate oversight, ensure transparent business practices, and protect public interests through comprehensive regulatory frameworks.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## Section 1. Short Title
+
+This Act may be cited as the "Corporate Accountability & Transparency Act" or "CATA".
+
+## Section 2: Purpose and Scope
 
 This Act strengthens corporate oversight, ensures transparent business practices, and protects public interests through comprehensive regulatory frameworks.
 
@@ -166,3 +181,53 @@ This Act strengthens corporate oversight, ensures transparent business practices
 - Industry-specific compliance analysis
 - Regular stakeholder feedback sessions
 - Congressional oversight hearings with size-specific focus
+
+## Section 11: Alternative Investment Oversight
+
+### 11.1 Private Equity Transparency
+- Quarterly reporting requirements for funds managing >$1B in assets:
+  - Portfolio company impact assessments
+  - Job creation/elimination data
+  - Community economic impact reports
+  - Environmental and social governance metrics
+- Worker protection requirements during buyouts:
+  - 90-day notice before major restructuring
+  - Severance protection standards
+  - Healthcare continuation guarantees
+  - Pension plan protection requirements
+
+### 11.2 Hedge Fund Oversight
+- Enhanced reporting for hedge funds >$500M assets under management:
+  - Monthly position reporting to regulators
+  - Systemic risk assessment participation
+  - Leverage ratio disclosure requirements
+  - Market manipulation prevention measures
+- Anti-manipulation provisions:
+  - Prohibition on coordinated short selling campaigns
+  - Enhanced penalties for market manipulation
+  - Real-time monitoring of large positions
+
+### 11.3 Cryptocurrency Corporate Holdings
+- Real-time reporting requirements for corporate crypto transactions >$10M
+- Anti-money laundering compliance for corporate cryptocurrency use:
+  - Know Your Customer (KYC) requirements for crypto counterparties
+  - Suspicious Activity Report (SAR) filing obligations
+  - Enhanced due diligence for high-risk jurisdictions
+- Environmental impact reporting for crypto mining operations:
+  - Carbon footprint disclosure
+  - Energy source transparency
+  - Renewable energy transition plans
+
+## Section 12: Global Tax Coordination
+
+### 12.1 International Tax Information Exchange
+- Automatic exchange agreements with OECD and G20 countries
+- Real-time sharing of corporate tax information with treaty partners
+- Joint audit programs for multinational corporations
+- Coordinated penalty structures for international tax evasion
+
+### 12.2 Anti-Base Erosion Measures
+- Enhanced implementation of OECD Base Erosion and Profit Shifting (BEPS) standards
+- Country-by-country profit reporting requirements
+- Minimum tax implementation aligned with international frameworks
+- Digital services tax coordination with international partners

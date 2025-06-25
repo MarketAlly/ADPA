@@ -1,6 +1,21 @@
-# 🌐 Digital Privacy & Free Speech Protection Act (DPSPA)
+# Digital Privacy & Free Speech Protection Act (DPSPA)
 
-## Section 1: Purpose and Definitions
+**118th Congress, 2nd Session**  
+**H.R. _____ / S. _____**
+
+---
+
+**A BILL**
+
+To safeguard digital privacy rights, protect free expression online, and prevent government overreach in digital spaces while ensuring national security through lawful means.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## Section 1. Short Title
+
+This Act may be cited as the "Digital Privacy & Free Speech Protection Act" or "DPSPA".
+
+## Section 2: Purpose and Definitions
 
 ### 1.1 Purpose
 This Act aims to safeguard digital privacy rights, protect free expression online, and prevent government overreach in digital spaces while ensuring national security through lawful means.
@@ -182,3 +197,59 @@ Users have the right to:
 - Annual review of effectiveness
 - Biennial updates to technical standards
 - Regular public comment periods
+
+## Section 9: Biometric Surveillance Restrictions
+
+### 9.1 Facial Recognition Moratorium
+1. **Government Facial Recognition Ban**
+   - Complete prohibition on government facial recognition in public spaces
+   - Exceptions only for:
+     * Airport security (with judicial oversight)
+     * Border security (with privacy protections)
+     * Active criminal investigations (with warrant requirement)
+   - Criminal penalties for unauthorized government facial recognition use
+
+2. **Private Sector Facial Recognition Restrictions**
+   - Explicit written consent required before any facial recognition use
+   - Opt-out mechanisms that cannot affect service quality
+   - Clear signage required wherever facial recognition is deployed
+   - Right to know when facial recognition has been used on an individual
+
+### 9.2 Biometric Data Protection
+1. **Enhanced Biometric Safeguards**
+   - Encryption requirements for all stored biometric data
+   - Automatic deletion of biometric data after purpose completion
+   - Prohibition on selling or sharing biometric data without explicit consent
+   - Right to biometric data portability and deletion
+
+2. **Biometric Processing Limitations**
+   - Minimal data collection principle for biometric systems
+   - Purpose limitation requirements for biometric data use
+   - Prohibition on biometric data use for insurance or employment discrimination
+   - Regular audits of biometric data processing systems
+
+### 9.3 Anonymous Communication Protection
+1. **Right to Anonymous Speech**
+   - Constitutional protection for anonymous online communication
+   - Prohibition on mandatory identity verification for general internet use
+   - Protection for anonymizing technologies and services
+   - Anti-retaliation provisions for anonymous speech
+
+2. **Anonymity Technology Protection**
+   - Legal protection for developers and operators of anonymity tools
+   - Prohibition on criminalizing or restricting anonymity software
+   - Right to use anonymizing technologies without discrimination
+   - Protection for anonymous payment methods for legitimate purposes
+
+### 9.4 International Data Transfer Protections
+1. **Cross-Border Data Safeguards**
+   - Adequacy determinations required for international data transfers
+   - Enhanced protections for transfers to authoritarian regimes
+   - Standard contractual clauses for international business transfers
+   - Emergency suspension authority for high-risk jurisdictions
+
+2. **Foreign Government Access Restrictions**
+   - Prohibition on providing data to foreign governments without due process
+   - Notice requirements for lawful foreign government data requests
+   - Right to challenge foreign government data access requests
+   - Annual transparency reports on foreign government data requests

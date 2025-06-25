@@ -1,6 +1,21 @@
-# 🏛️ American Democracy Protection Act (ADPA)
+# American Democracy Protection Act (ADPA)
 
-## Purpose and Scope
+**118th Congress, 2nd Session**  
+**H.R. _____ / S. _____**
+
+---
+
+**A BILL**
+
+To establish comprehensive safeguards to protect democratic institutions, prevent authoritarian consolidation of power, and ensure the continued independence of federal agencies and civil servants.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## Section 1. Short Title
+
+This Act may be cited as the "American Democracy Protection Act" or "ADPA".
+
+## Section 2. Purpose and Scope
 This Act establishes comprehensive safeguards to protect democratic institutions, prevent authoritarian consolidation of power, and ensure the continued independence of federal agencies and civil servants.
 
 ## Title I: Civil Service Protection
@@ -75,6 +90,7 @@ This Act establishes comprehensive safeguards to protect democratic institutions
    - Prohibition on leveraging federal funds to influence state agencies
    - Joint state-federal whistleblower protections
    - Coordination requirements for cross-jurisdiction investigations
+   - Federal intervention authority when state civil service protections fall below federal standards
 
 ## Title III: Whistleblower Enhancement
 
@@ -135,6 +151,56 @@ This Act establishes comprehensive safeguards to protect democratic institutions
 - Act takes effect 180 days after enactment
 - Grandfather provisions for pending actions
 - Phased implementation schedule for complex provisions
+
+## Title VI: Enhanced Protections
+
+### Section 601: Position Classification Protection
+1. **Anti-Reclassification Safeguards**
+   - Prohibition on mass reclassification of career positions to political appointments
+   - Two-thirds congressional approval required for Schedule F-type authorities
+   - Grandfathering protection for existing career employees
+   - Individual justification required for each position reclassification
+
+2. **Due Process for Classification Changes**
+   - 90-day notice required before any position reclassification
+   - Right to appeal reclassification decisions
+   - Independent review board for classification disputes
+   - Automatic reinstatement pending appeal
+
+### Section 602: International Civil Service Cooperation
+1. **Democratic Alliance Framework**
+   - Cooperation agreements with allied democracies
+   - Information sharing on civil service best practices
+   - Mutual support during democratic crises
+   - Joint training programs for civil servants
+
+2. **International Monitoring**
+   - Annual reports to international democracy organizations
+   - Peer review mechanisms with allied democracies
+   - Participation in global civil service standards initiatives
+   - Emergency consultation protocols during crises
+
+## Title VII: Cross-Agency Coordination
+
+### Section 701: Democratic Protection Coordination Office
+1. **Office Establishment**
+   - Central coordination office for all democratic protection legislation
+   - Director appointed by President, confirmed by Senate
+   - Representatives from all agencies implementing democratic protection bills
+   - Unified reporting and accountability mechanisms
+
+2. **Coordination Functions**
+   - Inter-agency implementation coordination
+   - Resource allocation optimization
+   - Timeline synchronization across bills
+   - Unified enforcement strategy development
+   - International cooperation coordination
+
+3. **Emergency Coordination**
+   - Rapid response coordination for democratic crises
+   - Emergency resource reallocation authority
+   - Cross-agency crisis communication
+   - Unified command structure for democratic emergencies
 
 ---
 

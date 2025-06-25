@@ -1,4 +1,15 @@
-# ⚖️ Judicial Fairness & Court Expansion Prevention Act (JFCEPA)
+# Judicial Fairness & Court Expansion Prevention Act (JFCEPA)
+
+**118th Congress, 2nd Session**  
+**H.R. _____ / S. _____**
+
+---
+
+**A BILL**
+
+To safeguard the independence and integrity of the federal judiciary by preventing court manipulation, establishing clear ethical guidelines, and ensuring fair judicial processes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
 
 ## Section 1: Purpose and Findings
 
@@ -26,21 +37,31 @@ Congress finds that:
   - Public hearings with expert testimony
   - 180-day waiting period before implementation
 
-### 2.2 Term Limit Implementation
+### 2.2 Term Limit Implementation Framework
+**Constitutional Amendment Pathway:**
+- This Act includes a proposed constitutional amendment (Section 11) to implement term limits
+- Until amendment ratification, incentive-based system applies:
+
+**Interim Incentive System (Pre-Amendment):**
 - After 18 years of active service, Justices may elect senior status with:
   - Continued full salary and benefits
   - Option to serve on lower courts
   - Retention of chambers and staff
-- Mid-term vacancies:
-  - Replacement Justice serves remainder of the term
-  - Time served completing another Justice's term doesn't count toward their own 18-year term
-- Emergency provisions:
-  - Temporary recall of senior Justices permitted for recusal situations
-  - Acting appointments allowed during prolonged confirmation processes
+  - Additional compensation incentives for transition
+
+**Post-Amendment Implementation:**
 - Supreme Court Justices shall serve 18-year terms
 - Terms shall be staggered, with one seat opening every two years
 - After term completion, Justices may serve on lower federal courts
-- Current Justices are grandfathered but may opt into the term-limit system
+- Current Justices grandfathered with transition incentives
+
+**Mid-term Vacancies:**
+- Replacement Justice serves remainder of the term
+- Time served completing another Justice's term doesn't count toward their own 18-year term
+
+**Emergency Provisions:**
+- Temporary recall of senior Justices permitted for recusal situations
+- Acting appointments allowed during prolonged confirmation processes
 
 ## Section 3: Judicial Ethics and Accountability
 
@@ -183,5 +204,64 @@ Penalties may include:
 If any provision is held invalid, the remainder of the Act shall remain in effect.
 
 ---
+
+## Section 10: Enhanced Judicial Security
+
+### 10.1 Comprehensive Threat Assessment
+- Advanced threat assessment protocols for all federal judges
+- AI-powered threat detection systems
+- Regular security briefings for judicial personnel
+- Coordination with federal law enforcement for threat response
+
+### 10.2 Family Protection Programs
+- Extended security coverage for immediate family members
+- Secure transportation services for threatened judges
+- Emergency relocation assistance for judicial families
+- Anonymous housing programs for high-risk situations
+
+### 10.3 Cybersecurity Requirements
+- Mandatory cybersecurity training for all judicial personnel
+- Encrypted communication systems for judicial business
+- Regular cybersecurity audits of court systems
+- Incident response protocols for cyber attacks
+
+### 10.4 Forum Shopping Prevention
+- Randomized case assignment algorithms to prevent manipulation
+- Penalties for attorneys who engage in forum shopping
+- Restrictions on venue transfers for non-legitimate reasons
+- Monitoring system for unusual case assignment patterns
+
+## Section 11: Constitutional Amendment for Judicial Term Limits
+
+### 11.1 Proposed Constitutional Amendment
+The following amendment to the Constitution is hereby proposed and shall be submitted to the states for ratification:
+
+**Section 1.** Justices of the Supreme Court shall serve terms of eighteen years from the date of their confirmation.
+
+**Section 2.** Upon completion of their term, Justices may serve on other federal courts as assigned by the Chief Justice with consent of the Justice.
+
+**Section 3.** Current Justices serving at the time of ratification may complete their current term or opt into the eighteen-year term system with the time already served counting toward the eighteen-year limit.
+
+**Section 4.** Congress shall have power to enforce this article by appropriate legislation.
+
+### 11.2 Alternative Implementation
+If the constitutional amendment is not ratified within seven years:
+- Enhanced incentive system continues indefinitely
+- Annual review of effectiveness
+- Additional incentives may be added by legislation
+
+## Section 12: Enhanced Constitutional Safeguards
+
+### 12.1 Severability with Constitutional Backup
+- If any provision requiring constitutional amendment is held invalid, alternative statutory provisions automatically take effect
+- Independent constitutional review before implementation
+- Fallback mechanisms for all major provisions
+
+### 12.2 Constitutional Authority Justification
+All provisions are justified under:
+- Article III judicial powers
+- Congressional oversight authority under Article I
+- Necessary and Proper Clause implementation
+- Due Process and Equal Protection requirements
 
 **Effective Date:** This Act shall take effect 180 days after enactment.
