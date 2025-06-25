@@ -129,13 +129,6 @@ Democracy is stronger when democracies work together. Our framework includes for
 **For Communities:** Local journalism support, civic education, and community resilience  
 **For Everyone:** Government that serves the people, not special interests
 
-## Background Information
-
-### Detailed Analysis & Documentation
-- **[Comprehensive Bill Analysis](bills-analysis.md)** - In-depth analysis of all 19 bills and their interactions
-- **[Enhancement Recommendations](bill-improvements.md)** - Specific improvements and new provisions added
-- **[Critical Issues Addressed](identified-shortcomings.md)** - How we identified and solved key gaps
-
 ## How You Can Help
 
 ### 🗣️ **Spread the Word**
