@@ -145,12 +145,6 @@ Join or support organizations working to strengthen democracy in your community.
 
 ## For Policy Professionals
 
-### Technical Documentation
-- **[Repository Structure & Bills](bills/)** - All 19 professionally formatted bills ready for Congressional introduction
-- **[Comprehensive Analysis](bills-analysis.md)** - Detailed policy analysis and implementation considerations
-- **[Enhancement Documentation](bill-improvements.md)** - Specific improvements and new provisions
-- **[Gap Analysis](identified-shortcomings.md)** - Critical issues identified and addressed
-
 ### Implementation Support
 - Bills include detailed implementation timelines
 - Comprehensive cost-benefit analysis provided
